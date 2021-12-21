@@ -1,4 +1,4 @@
-﻿#Supansa Prathumthong
+﻿#Supansa Jar Prathumthong
 
 print("Supansa Hi Prathumthong")
-print("Supansa Hi +++++++")
+print("computer coe#12")
